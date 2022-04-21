@@ -87,3 +87,5 @@ visibility: 10000
 weather: Array(1)
   > 0: {id: 802, main: 'Clouds', description: 'scattered clouds', icon: '03d'}
 */
+
+// git config --global url.ssh://git@github.com/.insteadOf https://github.com/
